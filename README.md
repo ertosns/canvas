@@ -3,4 +3,4 @@
 
 # sample
 
-![alt text](https://github.com/ertosns/3dcanvas/blob/master/images/canvas.png?raw=true)
+![alt text](https://github.com/ertosns/canvas/blob/master/images/canvas.png?raw=true)
