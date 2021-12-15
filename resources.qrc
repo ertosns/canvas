@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file alias="new">resources/new_icon.png</file>
+        <file alias="open">resources/open_icon.png</file>
+        <file alias="save">resources/save_icon.png</file>
+	<file alias="cube">resources/cube_icon.png</file>
+        <file alias="sphere">resources/sphere_icon.png</file>
+        <file alias="cylinder">resources/cylinder_icon.png</file>
+	<file alias="render">resources/render_icon.png</file>
+        <file alias="resize">resources/resize_icon.png</file>  
+        <file alias="fColor">resources/fcolor_icon.png</file>
+        <file alias="bColor">resources/bcolor_icon.png</file>
+        <file alias="clearAll">resources/clearall_icon.png</file>
+        <file alias="pen">resources/pen_icon.png</file>
+        <file alias="eraser">resources/eraser_icon.png</file>
+        <file alias="line">resources/line_icon.png</file>
+        <file alias="rect">resources/rect_icon.png</file>
+    </qresource>
+</RCC>
+
